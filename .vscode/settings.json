@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "countingalgorithm.h": "c",
+        "stdio.h": "c"
+    }
+}

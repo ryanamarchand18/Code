@@ -1,0 +1,1 @@
+char calculate(double trueCount, int playerScore, int dealerScore);
